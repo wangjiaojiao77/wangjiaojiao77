@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 努力达到 A+～
+- 👯 努力达到 A++～
 
 
 **Languages and Tools:**  
